@@ -23,3 +23,9 @@ This project focuses on understanding sentiment in Amazon product reviews using 
     Matplotlib, Seaborn, WordCloud
 
     Jupyter Notebook
+
+| Model               | Accuracy | Precision | Recall |
+| ------------------- | -------- | --------- | ------ |
+| Logistic Regression | 84%      | 0.85      | 0.83   |
+| Random Forest       | 80%      | 0.81      | 0.78   |
+| Naive Bayes         | 77%      | 0.78      | 0.76   |
